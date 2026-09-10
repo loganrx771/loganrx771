@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey, I'm Logan (@loganrx771) 👋
 
-<!--
-**loganrx771/loganrx771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps engineer based in Paris. Spending most of my week turning messy deployments into repeatable Terraform configs and wrestling with Kubernetes manifests.
 
-Here are some ideas to get you started:
+#### What I'm working on
+- Building automated CI/CD pipelines with GitHub Actions
+- Migrating legacy infrastructure to containerized setups
+- Tinkering with home lab nodes and Linux internals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack
+- **Core:** Linux, Bash, Docker, Kubernetes
+- **IaC & CI/CD:** Terraform, GitHub Actions
+- **Cloud & Observability:** AWS, Prometheus, Grafana
+
+#### Reach Out
+- Open an issue on my repos or ping me on LinkedIn
+- Always up for talking infrastructure, automation, or debugging weird production incidents
